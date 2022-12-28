@@ -3,7 +3,7 @@ This is my first line.
 I added this line from GitHub.
 
 Different line
-
+    Test changes
 This is another line come from another branch.
 
 commit and push -> When you change something from your laptop,
